@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account-persist>
+	<accounts>
+		<account>
+			<id>duoduo</id>
+			<name>duoduobird</name>
+			<email>419183980@qq.com</email>
+			<password>12afaerfr</password>
+			<activated>false</activated>
+		</account>
+	</accounts>
+</account-persist>

@@ -1,0 +1,5 @@
+com\duoduo\mvnbook\account\email\AccountEmailService.class
+com\duoduo\mvnbook\account\email\AccountEmailServiceImpl.class
+com\duoduo\mvnbook\App.class
+com\duoduo\mvnbook\account\email\AccountEmailException.class
+com\duoduo\mvnbook\account\service\AccountService.class
